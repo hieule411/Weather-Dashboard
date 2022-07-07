@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+}
+
+h4{
+    font-weight: bold;
+}
+
+:root{
+    background-color: rgb(36, 93, 149);
+    text-decoration: underline;
+}
